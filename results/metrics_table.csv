@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,F1-Score,ROC-AUC
+Hybrid SVM-KNN (Proposed),0.7678,0.9212,0.6475,0.7605,0.931
+Decision Tree,0.7829,0.9693,0.6389,0.7701,0.8061
+Logistic Regression,0.7526,0.9259,0.6145,0.7387,0.9048
+SVM only,0.7575,0.9794,0.5864,0.7336,0.9307
+KNN only,0.7746,0.923,0.6589,0.7689,0.8148
